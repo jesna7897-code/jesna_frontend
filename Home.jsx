@@ -52,7 +52,7 @@ import {
                 />
                 <CardContent>
                   <Typography variant="caption" color="text.secondary">
-                    Blog
+                    
                   </Typography>
                   <Typography variant="h6">{item.title}</Typography>
                   <Typography variant="body2" color="text.secondary">
